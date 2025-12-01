@@ -17,7 +17,6 @@ Fun fact: I can tame messy data just like I tame my wild curly hair – turning 
 <hr>
 <h3 align="left">✨ My Skills:</h3>
 
-### Skills
 ```
 Python
 SQL
@@ -28,10 +27,13 @@ Data Analysis
 
 
 ### About Me:
-- 🛠 &nbsp; Currently working on **Python, SQL, Power BI, and Data Analysis projects**.
-- 🚀 &nbsp; Passionate about turning raw data into insights and dashboards.
-- 💬 &nbsp; Ask me anything [here](https://github.com/fawziah-alzaher/issues) – happy to help!
-- 👾 &nbsp; Fun fact: Curly hair, big data dreams!  
+```
+I'm passionate about data analysis and turning messy numbers into clear, actionable insights.  
+After all, who likes being lost in chaos? Not me!  
+
+My goal is always to making sense of confusing data and guiding it into something understandable and useful.  
+I hope my work reflects this approach, and I’d love the chance to collaborate with you to make your data journey brighter and more insightful!
+```
 
 ### Projects & Stats:
 
