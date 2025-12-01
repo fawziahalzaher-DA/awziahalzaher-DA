@@ -15,11 +15,23 @@ Fun fact: I can tame messy data just like I tame my wild curly hair – turning 
 
 <hr>
 <h3 align="left">✨ My Skills:</h3>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="powerbi"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/excel/excel.png" alt="excel"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/powerbi-icon.svg" alt="Power BI">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/excel/excel.png" alt="Excel">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/data-analysis.svg" alt="Data Analysis">
+</code>
+
 
 ### About Me:
 - 🛠 &nbsp; Currently working on **Python, SQL, Power BI, and Data Analysis projects**.
