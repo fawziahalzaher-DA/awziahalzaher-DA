@@ -1,8 +1,9 @@
-## Hey there 👋, I'm Fawziah Alzaher
+## Hey All amazing people! 👋, I'm Fawziah Alzaher
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fawziah-alzaher)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![LinkedIn Badge](https://www.linkedin.com/in/fawziahalzaher)
+[![mail Badge](fawziahalzaher@gmail.com)
+[![phone Badge](966555734236)
+
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawziah-alzaher&label=Profile%20views&color=0e75b6&style=flat" alt="fawziah-alzaher" /> </p>
