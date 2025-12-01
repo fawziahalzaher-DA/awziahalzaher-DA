@@ -2,11 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawziahalzaher)
 [![Mail Badge](https://img.shields.io/badge/-Mail-00acee?style=flat-square&logo=Mail&logoColor=white)](mailto:fawziahalzaher@gmail.com)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-
-[![mail Badge](fawziahalzaher@gmail.com)
-[![phone Badge](966555734236)
+[![Phone Badge](https://img.shields.io/badge/-Call-25D366?style=flat-square&logo=Phone&logoColor=white)](tel:+966555734236)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/966555734236)
 
 
 ### Glad to see you here! 
