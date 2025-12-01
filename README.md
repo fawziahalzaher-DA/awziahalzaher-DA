@@ -11,7 +11,7 @@
 
 I am a Data Enthusiast working with **Python, SQL, and Power BI** to turn data into actionable insights. I love exploring data, solving problems, and creating meaningful dashboards. 🚀  
 
-Fun fact: I have curly hair and a passion for making complex data simple and beautiful. 💁‍♀️
+Fun fact: I can tame messy data just like I tame my wild curly hair – turning chaos into beautiful, organized insights! ✨
 
 <hr>
 <h3 align="left">✨ My Skills:</h3>
