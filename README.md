@@ -1,6 +1,6 @@
 ## Hey All amazing people! 👋, I'm Fawziah Alzaher
 
-[![LinkedIn Badge](https://www.linkedin.com/in/fawziahalzaher)
+[![Linkedin Badge](https://www.linkedin.com/in/fawziahalzaher)
 [![mail Badge](fawziahalzaher@gmail.com)
 [![phone Badge](966555734236)
 
