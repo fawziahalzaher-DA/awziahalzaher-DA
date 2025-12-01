@@ -35,56 +35,27 @@ My goal is always to making sense of confusing data and guiding it into somethin
 I hope my work reflects this approach, and I’d love the chance to collaborate with you to make your data journey brighter and more insightful!
 ```
 
-### Projects & Stats:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fawziah-alzaher&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawziah-alzaher&show_icons=true&hide_border=true&layout=compact" />
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fawziah-alzaher&hide_border=true" />
-</details>
-
-<div align="center">
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-</div>
 
 ### 🚀 My Projects
 **Practice Projects**
 
-- [Power BI Examples](https://github.com/fawziah-alzaher/power-bi-projects)  
-  Sample dashboards and reports demonstrating insights from business data.
-
-- [SQL Examples](https://github.com/fawziah-alzaher/sql-projects)  
-  Hands-on scripts and queries for data analysis and automation tasks.
-
-- [Python Examples](https://github.com/fawziah-alzaher/Python-projects)  
-  Hands-on scripts and queries for data analysis and automation tasks.
-
-- [Data Analysis Practice Projects](https://github.com/fawziah-alzaher/data-projects)  
-  Sample dashboards and reports demonstrating insights from business data.
 
  <details>
-  <summary><b>🚀 Power BI Examples</b></summary>
+  <summary><b> Power BI Examples</b></summary>
   <br />
   Sample dashboards and reports demonstrating insights from business data.  
   [View on GitHub](https://github.com/fawziah-alzaher/power-bi-projects)
 </details>
 
 <details>
-  <summary><b>🚀 SQL Examples</b></summary>
+  <summary><b> SQL Examples</b></summary>
   <br />
   Hands-on scripts and queries for data analysis and automation tasks.  
   [View on GitHub](https://github.com/fawziah-alzaher/sql-projects)
 </details>
 
 <details>
-  <summary><b>🚀 Python Examples</b></summary>
+  <summary><b> Python Examples</b></summary>
   <br />
   Hands-on scripts and queries for data analysis and automation tasks.  
   [View on]()
