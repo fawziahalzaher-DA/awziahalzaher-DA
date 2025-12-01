@@ -1,6 +1,3 @@
-أكيد! خلينا نعدل البروفايل على GitHub ليعكس شخصيتك ومهاراتك الحالية في Python، SQL، Power BI، وتحليل البيانات، بأسلوب مرح يناسبك. هنا نسخة مقترحة:
-
-```{"variant":"standard","title":"GitHub README لفوزية آل زاهر","id":"73641"}
 ## Hey there 👋, I'm Fawziah Alzaher
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fawziah-alzaher)
@@ -47,7 +44,3 @@ Fun fact: I have curly hair and a passion for making complex data simple and bea
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 </div>
 ```
-
-إذا تحبين، أقدر أصممه أكثر بأسلوب **مرح وملون** يشبه شخصيتك، مع إضافة **Power BI وSQL Icons واقتباسات تحليل البيانات**، بحيث يبرز بين جميع بروفايلات GitHub.
-
-هل تحبين أسوي لك النسخة الملونة والمرحة هذه؟
