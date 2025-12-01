@@ -53,4 +53,21 @@ I hope my work reflects this approach, and I’d love the chance to collaborate 
 <div align="center">
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 </div>
-```
+
+### 🚀 My Projects
+**Practice Projects**
+
+- [Power BI Examples](https://github.com/fawziah-alzaher/power-bi-projects)  
+  Sample dashboards and reports demonstrating insights from business data.
+
+- [SQL Examples](https://github.com/fawziah-alzaher/sql-projects)  
+  Hands-on scripts and queries for data analysis and automation tasks.
+
+- [Python Examples](https://github.com/fawziah-alzaher/Python-projects)  
+  Hands-on scripts and queries for data analysis and automation tasks.
+
+- [Data Analysis Practice Projects](https://github.com/fawziah-alzaher/data-projects)  
+  Sample dashboards and reports demonstrating insights from business data.
+
+
+
