@@ -1,10 +1,9 @@
 ## Hey All amazing people! 👋, I'm Fawziah Alzaher
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Mail Badge](https://img.shields.io/badge/-Mail-00acee?style=flat-square&logo=Mail&logoColor=white)](fawziahalzaher@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawziahalzaher)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 
-[![Linkedin Badge](https://www.linkedin.com/in/fawziahalzaher)
 [![mail Badge](fawziahalzaher@gmail.com)
 [![phone Badge](966555734236)
 
