@@ -69,5 +69,19 @@ I hope my work reflects this approach, and I’d love the chance to collaborate 
 - [Data Analysis Practice Projects](https://github.com/fawziah-alzaher/data-projects)  
   Sample dashboards and reports demonstrating insights from business data.
 
+  <details>
+  <summary><b>🚀 My Projects</b></summary>
+  <br />
+
+- [Power BI Examples](https://github.com/fawziah-alzaher/power-bi-projects)  
+  Sample dashboards and reports demonstrating insights from business data.
+
+- [SQL Examples](https://github.com/fawziah-alzaher/sql-projects)  
+  Hands-on scripts and queries for data analysis and automation tasks.
+
+- [Python Examples](https://github.com/fawziah-alzaher/Python-projects)  
+  Hands-on scripts and queries for data analysis
+
+
 
 
