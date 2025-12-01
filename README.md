@@ -16,7 +16,24 @@ Fun fact: I can tame messy data just like I tame my wild curly hair – turning 
 <hr>
 <h3 align="left">✨ My Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,sql,powerbi,excel,tableau&theme=light&perline=5)](https://skillicons.dev)
+<hr>
+<h3 align="left">✨ My Skills:</h3>
+
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel">
+</code>
+<code>
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/data-analysis/data-analysis-original.svg" alt="Data Analysis">
+</code>
 
 
 
