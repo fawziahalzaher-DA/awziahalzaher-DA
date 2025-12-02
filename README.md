@@ -36,29 +36,6 @@ I hope my work reflects this approach, and I’d love the chance to collaborate 
 ```
 
 
-### 🚀 My Projects
-**Practice Projects**
-
-
- <details>
-  <summary><b> Power BI Examples</b></summary>
-  <br />
-  Sample dashboards and reports demonstrating insights from business data.  
-  [View on GitHub](https://github.com/fawziah-alzaher/power-bi-projects)
-</details>
-
-<details>
-  <summary><b> SQL Examples</b></summary>
-  <br />
-  Hands-on scripts and queries for data analysis and automation tasks.  
-  [View on GitHub](https://github.com/fawziah-alzaher/sql-projects)
-</details>
-
-<details>
-  <summary><b> Python Examples</b></summary>
-  <br />
-  Hands-on scripts and queries for data analysis and automation tasks.  
-  [View on]()
 
 
 
